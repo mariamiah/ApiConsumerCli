@@ -1,6 +1,6 @@
 ## API CONSUMER CLI
 
-$ apcli_
+$ api_
 
 apcli is a simple example of an application that consumes the News Api
   
