@@ -2,7 +2,7 @@
 
 $ api_
 
-apcli is a simple example of an application that consumes the News Api
+apiconsumercli is a simple example of an application that consumes the News Api
   
 
 ### Usage:
