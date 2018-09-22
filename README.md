@@ -1,2 +1,12 @@
 ## API CONSUMER CLI
-A command line application that consumes the News Api
+
+$ api_
+
+apiconsumercli is a simple example of an application that consumes the News Api
+  
+
+### Usage:
+
+  $ pip install --editable .
+  
+
